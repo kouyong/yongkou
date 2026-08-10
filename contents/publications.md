@@ -1,15 +1,15 @@
 [1] Yong Kou, Jinlong He, Xia Yuan, Dening Luo, Yanci Zhang* , "ScaleGS: Scalable Distributed
 Framework for Large-Scale 3D Gaussian Splatting with Edge Communication," in International Symposium
 on Computer Performance, Modeling, Measurements and Evaluation.(CCF-B)
-\n
+
 [2] Huan Zhao,  Yong Kou, Yuxin Xue, Shuang Wang, Zhaojun Gu, "TiFSN: A Wavelet-EC-TCN Model for
 Quadrotor UAV Trajectory Prediction Based on Time-Frequency-Spatial Feature Fusion," in
 International Symposium on Computer Performance, Modeling, Measurements and Evaluation.(CCF-B, 共一)
-\n
+
 [3] Yong Kou, Qing Ye, Yanci Zhang* , Xia Yuan, and Jinlong He, “AMQGaussian: Efficient 3d gaussian
 representation with asymmetric mixed-precision quantization,” in 2024 IEEE International Symposium on
 Parallel and Distributed Processing with Applications (ISPA). IEEE,  2024, pp.1563–1570.
-\n
+
 [4] Jinlong He, Xia Yuan* ,  Yong Kou, and Yanci Zhang, “A novel framework for remote sensing image
 synthesis with optimal transport,” Sensors (Basel, Switzerland), vol.25, no.6, pp.1792, 2025.(SCI)
 
