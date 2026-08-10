@@ -1,7 +1,3 @@
-
-
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
 #### Email  
 <code>yongkou@cafuc.edu.cn</code>  
 
