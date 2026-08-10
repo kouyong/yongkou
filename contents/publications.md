@@ -1,3 +1,4 @@
+**Papers:**
 [1] **Yong Kou**, Jinlong He, Xia Yuan, Dening Luo, Yanci Zhang* , "ScaleGS: Scalable Distributed
 Framework for Large-Scale 3D Gaussian Splatting with Edge Communication," in International Symposium
 on Computer Performance, Modeling, Measurements and Evaluation.(CCF-B)<br>
