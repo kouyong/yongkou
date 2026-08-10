@@ -1,4 +1,4 @@
-寇勇
+
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
