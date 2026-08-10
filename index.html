@@ -109,27 +109,29 @@
         </div>
     </nav>
 
-    <!-- Home -->
-    <section class="bg-white py-5" id="home">
-        <div class="container px-5">
-            <div class="row align-items-start">
-                <!-- 左侧：个人信息文字 -->
-                <div class="col-md-8">
-                    <header>
-                        <h2 id="home-subtitle"> </h2>
-                    </header>
-                    <div class="main-body" id="home-md"></div>
-                </div>
-                <!-- 右侧：头像（对应红框位置） -->
-                <div class="col-md-4 d-flex justify-content-end">
-                    <div id="avatar">
-                        <img class="shadow" src="static/assets/img/photo.png" style="max-width: 180px; height: auto;">
-                    </div>
+<!-- Home -->
+<section class="bg-white py-5" id="home">
+    <div class="container px-5">
+        <div class="row align-items-start">
+            <!-- 左侧：个人信息文字 -->
+            <div class="col-md-8">
+                <header>
+                    <!-- 直接写死姓名，蓝色加粗，确保稳定显示 -->
+                    <h2 class="text-primary fw-bold mb-4">寇勇</h2>
+                </header>
+                <div class="main-body" id="home-md"></div>
+            </div>
+            <!-- 右侧：头像 -->
+            <div class="col-md-4 d-flex justify-content-end">
+                <!-- mt-5 控制头像下移幅度，数值越大位置越靠下 -->
+                <div id="avatar" class="mt-5">
+                    <img class="shadow" src="static/assets/img/photo.png" style="max-width: 180px; height: auto;">
                 </div>
             </div>
         </div>
-    </section>
-    <!-- Home -->
+    </div>
+</section>
+<!-- Home -->
     
     <!-- Experience -->
     <section class="bg-gradient-primary-to-secondary-dark mt5 md5" id="experience">
