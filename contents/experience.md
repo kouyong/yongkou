@@ -1,21 +1,5 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+**Jul. 2012 – Dec. 2016 | 中国电科第十研究所** <br>
+**Jun. 2018 – Sep. 2019 | 成都极速智造科技有限公司** <br>
+**Dec. 2016 – Jun. 2018,Sep. 2019 – Aug. 2022| 华为技术有限公司** <br>
+**Aug. 2022 – Jun. 2025| 四川见山科技** <br>
+**Since Jul. 2026 | 中国民用航空飞行学院** <br>
